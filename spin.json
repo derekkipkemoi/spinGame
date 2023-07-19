@@ -1,0 +1,48 @@
+{
+    "visibility": true,
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
+    "users": [
+        {
+            "userName": "Peter Kip",
+            "amount": "100",
+            "phoneNumber": "0790341542"
+        },
+        {
+            "userName": "Derrick Kip",
+            "amount": "100",
+            "phoneNumber": "0720066626"
+        },
+      {
+            "userName": "Peter Kip",
+            "amount": "100",
+            "phoneNumber": "0790341542"
+        },
+        {
+            "userName": "Derrick Kip",
+            "amount": "100",
+            "phoneNumber": "0720066626"
+        },
+      {
+            "userName": "Peter Kip",
+            "amount": "100",
+            "phoneNumber": "0790341542"
+        },
+        {
+            "userName": "Derrick Kip",
+            "amount": "100",
+            "phoneNumber": "0720066626"
+        },
+      {
+            "userName": "Peter Kip",
+            "amount": "100",
+            "phoneNumber": "0790341542"
+        },
+        {
+            "userName": "Derrick Kip",
+            "amount": "100",
+            "phoneNumber": "0720066626"
+        }
+      ]
+}
