@@ -16,13 +16,13 @@
         {
             "userName": "b",
             "winTime": "9 Minutes ago",
-            "amount": "1700",
+            "amount": "100",
             "phoneNumber": "0781***392"
         },
         {
             "userName": "c",
             "winTime": "9 Minutes ago",
-            "amount": "3000",
+            "amount": "400",
             "phoneNumber": "0770***574"
         },
         {
@@ -34,7 +34,7 @@
         {
             "userName": "e",
             "winTime": "8 Minutes ago",
-            "amount": "400",
+            "amount": "900",
             "phoneNumber": "0733***703"
         },
         {
@@ -46,19 +46,19 @@
         {
             "userName": "g",
             "winTime": "7 Minutes ago",
-            "amount": "15000",
+            "amount": "1500",
             "phoneNumber": "0736***120"
         },
         {
             "userName": "h",
             "winTime": "7 Minutes ago",
-            "amount": "3000",
+            "amount": "300",
             "phoneNumber": "0735***585"
         },
         {
             "userName": "i",
             "winTime": "6 Minutes ago",
-            "amount": "8200",
+            "amount": "200",
             "phoneNumber": "0700***048"
         },
         {
@@ -76,19 +76,19 @@
         {
             "userName": "l",
             "winTime": "4 Minutes ago",
-            "amount": "5000",
+            "amount": "500",
             "phoneNumber": "0772***291"
         },
         {
             "userName": "m",
             "winTime": "3 Minutes ago",
-            "amount": "6000",
+            "amount": "600",
             "phoneNumber": "0750***522"
         },
         {
             "userName": "n",
             "winTime": "3 Minutes ago",
-            "amount": "5000",
+            "amount": "500",
             "phoneNumber": "0712***757"
         },
         {
@@ -100,13 +100,13 @@
         {
             "userName": "p",
             "winTime": "4 Minutes ago",
-            "amount": "4400",
+            "amount": "400",
             "phoneNumber": "0753***966"
         },
         {
             "userName": "q",
             "winTime": "6 Minutes ago",
-            "amount": "2200",
+            "amount": "200",
             "phoneNumber": "0710***309"
         },
         {
@@ -148,19 +148,19 @@
         {
             "userName": "y",
             "winTime": "9 Minutes ago",
-            "amount": "1000",
+            "amount": "100",
             "phoneNumber": "0781***552"
         },
         {
             "userName": "z",
             "winTime": "8 Minutes ago",
-            "amount": "4000",
+            "amount": "400",
             "phoneNumber": "0791***540"
         },
         {
             "userName": "a",
             "winTime": "7 Minutes ago",
-            "amount": "2000",
+            "amount": "200",
             "phoneNumber": "0756***245"
         },
         {
@@ -178,13 +178,13 @@
         {
             "userName": "d",
             "winTime": "3 Minutes ago",
-            "amount": "460",
+            "amount": "900",
             "phoneNumber": "0751***300"
         },
         {
             "userName": "e",
             "winTime": "1 Minutes ago",
-            "amount": "1200",
+            "amount": "200",
             "phoneNumber": "0720***626"
         }
       ]
