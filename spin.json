@@ -1,1 +1,10 @@
-
+{
+    "visibility": true,
+    "tillNumber": "8334020",
+    "tillName": "ARCTIC SOLUTIONS",
+    "depositAmount": "100",
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true
+}
+    
