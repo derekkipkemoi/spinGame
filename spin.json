@@ -5,6 +5,7 @@
     "depositAmount": "100",
     "showBannerAd": true,
     "showInterstitialAd": true,
-    "showNativeAd": true
+    "showNativeAd": true,
+    "users":[]
 }
     
